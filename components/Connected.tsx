@@ -22,7 +22,7 @@ const Connected: FC = () => {
             noOfLines={1}
             textAlign="center"
           >
-            Welcome Buildoor.
+            Welcome Minter.
           </Heading>
 
           <Text color="bodyText" fontSize="xl" textAlign="center">
